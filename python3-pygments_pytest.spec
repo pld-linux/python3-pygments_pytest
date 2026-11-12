@@ -1,13 +1,13 @@
 Summary:	A pygments lexer for pytest output
 Summary(pl.UTF-8):	Lexer pygments do wyjścia pytesta
 Name:		python3-pygments_pytest
-Version:	2.4.0
+Version:	2.5.0
 Release:	1
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pygments-pytest/
 Source0:	https://files.pythonhosted.org/packages/source/p/pygments-pytest/pygments_pytest-%{version}.tar.gz
-# Source0-md5:	110ecd459870cedda86192cd3d6d7c55
+# Source0-md5:	c7abc7bfb916da35f1506be3f4713b4e
 URL:		https://pypi.org/project/pygments-pytest/
 BuildRequires:	python3-modules >= 1:3.8
 BuildRequires:	python3-setuptools
